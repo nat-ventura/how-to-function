@@ -9,6 +9,8 @@ html, body {
     border: 10px solid black;
     border-radius: 25px;
     background-color: cornflowerblue;
+    padding: 1em;
+    justify-content: space-around;
 }
 
 .greeting, .info {
