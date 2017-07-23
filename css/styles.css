@@ -1,8 +1,12 @@
 .main-container {
+    display: flex;
     border: 10px solid black;
+    border-radius: 25px;
     background-color: cornflowerblue;
 }
 
-.greeting {
+.greeting, .info {
     background-color: white;
+    width: 60%;
+    border-radius: 25px;
 }
